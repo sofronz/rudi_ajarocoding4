@@ -1,2 +1,2 @@
 # rudi_ajarocoding4
-Repository untuk pembelajaran di Ajaro Coding Batch 4
+Repository Pembelajaran Laravel dan Project POS(Point Of Sales)
